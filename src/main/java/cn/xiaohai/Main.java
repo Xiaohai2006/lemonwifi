@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
 
 public class Main {
     public static void main(String[] args) {
-        //写一个欢迎以及介绍和使用说明和注意
+        //
         System.out.println("欢迎使用柠檬WiFi盗号工具");
         System.out.println("作者：Xiaohai");
         System.out.println("使用说明: 请输入手机号和线程数，程序将自动开始破解");
